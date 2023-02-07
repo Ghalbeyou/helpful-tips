@@ -9,3 +9,4 @@ If you are NOT **ENGLISH** and you are **Persian**, click the button below:
 > [**Continue** ->](How_Start.md)
 > [**Send my tip** ->](self/send_tip.md)
 > [**What's this?** ->](self/ins.md)
+
