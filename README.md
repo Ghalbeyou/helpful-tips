@@ -1,4 +1,6 @@
 # Notice!
+Welcome to **helpful tips!**, written by public for Iranian developers.
+
 > **`!`** Please note that this tips/notes are written in persian langauge, so there is no english support! **`!`**
 
 
